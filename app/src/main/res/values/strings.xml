@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NewsAppsKotlin</string>
+    <string name="titleHome">Home</string>
+    <string name="titleSearch">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="whats_your_find">Apa yang anda cari ?</string>
+    <string name="search_news">Cari berita</string>
+    <string name="title">N e w s A p p s</string>
+    <string name="news">News</string>
+    <string name="business">Business</string>
+    <string name="technology">Technology</string>
+    <string name="sport">Sports</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="health">Health</string>
+
+</resources>
